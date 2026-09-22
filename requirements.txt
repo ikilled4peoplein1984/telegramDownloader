@@ -1,0 +1,3 @@
+telethon>=1.36
+rich>=13.0
+cryptg
