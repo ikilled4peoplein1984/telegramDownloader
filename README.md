@@ -64,18 +64,18 @@ python --version
 **Вариант А — через Git:**
 
 ```cmd
-git clone https://github.com/ТВОЙ_НИК/tg-downloader.git
-cd tg-downloader
+git clone https://github.com/ikilled4peoplein1984/telegramDownloader
+cd telegramDownloader
 ```
 
 **Вариант Б — без Git:**
 
 1. Нажми зелёную кнопку **Code → Download ZIP**
-2. Распакуй архив в удобное место, например `C:\tg-downloader`
+2. Распакуй архив в удобное место, например `C:\telegramDownloader`
 3. Открой cmd и перейди в папку:
 
 ```cmd
-cd C:\tg-downloader
+cd C:\telegramDownloader
 ```
 
 ### Шаг 3. Установи зависимости
@@ -117,8 +117,8 @@ python tg_downloader.py
 python3 --version
 
 # 2. Клонируй репозиторий
-git clone https://github.com/ТВОЙ_НИК/tg-downloader.git
-cd tg-downloader
+git clone git clone https://github.com/ikilled4peoplein1984/telegramDownloader
+cd telegramDownloader
 
 # 3. (рекомендую) виртуальное окружение
 python3 -m venv venv
