@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+venv/
+.venv/
+env/
+
+# Telegram sessions — НЕ КОММИТИТЬ!
+*.session
+*.session-journal
+*.session-shm
+*.session-wal
+config.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
