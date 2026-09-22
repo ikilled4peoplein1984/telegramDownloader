@@ -64,7 +64,7 @@ python --version
 **Вариант А — через Git:**
 
 ```cmd
-git clone https://github.com/ikilled4peoplein1984/telegramDownloader
+git clone https://github.com/ikilled4peoplein1984/telegramDownloader.git
 cd telegramDownloader
 ```
 
@@ -117,7 +117,7 @@ python tg_downloader.py
 python3 --version
 
 # 2. Клонируй репозиторий
-git clone git clone https://github.com/ikilled4peoplein1984/telegramDownloader
+git clone https://github.com/ikilled4peoplein1984/telegramDownloader.git
 cd telegramDownloader
 
 # 3. (рекомендую) виртуальное окружение
@@ -455,7 +455,7 @@ pip install -r requirements.txt --upgrade
 ## 📁 Структура проекта
 
 ```
-tg-downloader/
+telegramDownloader/
 ├── tg_downloader.py       # основной скрипт
 ├── config.json            # настройки (создаётся автоматически, в .gitignore)
 ├── tg_session.session     # сессия Telegram (создаётся автоматически, в .gitignore)
